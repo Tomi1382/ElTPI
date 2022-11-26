@@ -1,0 +1,32 @@
+[
+  {
+    "titulo": "Brandon Sanderson Elantris",
+    "precio": "$5600",
+    "imagen": "https://images.cdn1.buscalibre.com/fit-in/360x360/c4/86/c48662a416b967888b5c157e5bbd4239.jpg",
+    "genero": "Fantasia"
+  },
+  {
+    "titulo": "Harry Potter y el Caliz de Fuego",
+    "precio": "$7900",
+    "imagen": "https://images.cdn1.buscalibre.com/fit-in/360x360/c4/86/c48662a416b967888b5c157e5bbd4239.jpg",
+    "genero": "Fantasia"
+  },
+  {
+    "titulo": "It (Eso)",
+    "precio": "$5500",
+    "imagen": "https://images.cdn1.buscalibre.com/fit-in/360x360/c4/86/c48662a416b967888b5c157e5bbd4239.jpg",
+    "genero": "Fantasia Oscura"
+  },
+  {
+    "titulo": "Libro 6",
+    "precio": "$1400",
+    "imagen": "https://images.cdn1.buscalibre.com/fit-in/360x360/c4/86/c48662a416b967888b5c157e5bbd4239.jpg",
+    "genero": "Comedia"
+  },
+  {
+    "titulo": "Libro 3",
+    "precio": "$4300",
+    "imagen": "https://images.cdn1.buscalibre.com/fit-in/360x360/c4/86/c48662a416b967888b5c157e5bbd4239.jpg",
+    "genero": "Fantasia"
+  }
+]
